@@ -1,6 +1,10 @@
-MIT License
+QuadsManip: Cooperative Manipulation using Multiple Quadrotors without Communication
 
-Copyright (c) 2018 Stanford Multi-Robot Systems Lab
+Copyright (c) 2018, Multi-robot Systems Lab, Stanford University
+
+The MIT License (MIT)
+
+Copyright (c) 2018 Zijian Wang
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
